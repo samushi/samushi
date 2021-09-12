@@ -63,5 +63,5 @@
 [youtube]: https://youtube.com/samushi
 [linkedin]: https://linkedin.com/in/samimaxhuni
 [kutia]: http://kutia.net
-[skills]: http://youtube.com
+[skills]: https://linkedin.com/in/samimaxhuni
 [npm-profile]: https://www.npmjs.com/~samushi
