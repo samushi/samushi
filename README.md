@@ -9,7 +9,7 @@
 ## I'm a Husband, Father, Developer, and Teacher!!
 
 - 🌍&nbsp;&nbsp;&nbsp;&nbsp;I'am currently working on a: [Kutia][kutia]
-- 📖&nbsp;&nbsp;&nbsp;&nbsp;I’m currently learning everything&nbsp;&nbsp;🤣&nbsp;&nbsp;, Especialy PHP, NodeJs and Python
+- 📖&nbsp;&nbsp;&nbsp;&nbsp;I’m currently learning everything&nbsp;&nbsp;🤣&nbsp;&nbsp;, Especially PHP, NodeJs and Python
 - 👥&nbsp;&nbsp;&nbsp;&nbsp;I’m looking to collaborate with other content creators
 - ⚡&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: I love to play Fifa & Read Books
 - 💬&nbsp;&nbsp;&nbsp;&nbsp;Contact me about PHP, Laravel, NodeJs, VueJS, ReactJs, Static Site.
