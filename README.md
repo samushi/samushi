@@ -8,7 +8,7 @@
 
 ## I'm a Husband, Father, Developer
 
-- 🌍&nbsp;&nbsp;&nbsp;&nbsp;I'am currently working on a: [Kutia][kutia]
+- 🌍&nbsp;&nbsp;&nbsp;&nbsp;I'am currently working in: [Kutia][kutia]
 - 📖&nbsp;&nbsp;&nbsp;&nbsp;I’m currently learning everything 🤣
 - 👥&nbsp;&nbsp;&nbsp;&nbsp;I’m looking to collaborate with other content creators
 - ⚡&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: I love to play Fifa & Read Books
