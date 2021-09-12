@@ -1,4 +1,4 @@
-### Hi there, I'm Sami Maxhuni - aka [Samushi][website] 👋
+### Hi there, I'm Sami Maxhuni - aka [samushi][website] 👋
 
 <br>
 <p>I am a PHP developer since 2005 commercial experience, and specializing in PHP web development, database design. Experienced with the open source frameworks of Laravel, CodeIgniter, Zend Framework and CMS Wordpress and Joomla.</p>
