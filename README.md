@@ -1,7 +1,7 @@
 ### Hi there, I'm Sami Maxhuni - aka [samushi][website] 👋
 
 <br>
-<p>I am a PHP developer since 2005 commercial experience, and specializing in PHP web development, database design. Experienced with the open source frameworks of Laravel, CodeIgniter, Zend Framework and CMS Wordpress and Joomla.</p>
+<p>I am a PHP developer since 2005 with commercial experience, and specializing in PHP web and app development, focused on LAMP, MERN, and MEVN stacks development.</p>
 
 [![Website](https://img.shields.io/website?label=laracodes.com&style=for-the-badge&url=http://laracodes.com)](https://laracodes.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/samqe?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsamqe&screen_name=Samqe)
