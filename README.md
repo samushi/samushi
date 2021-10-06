@@ -6,8 +6,6 @@
 [![Website](https://img.shields.io/website?label=laracodes.com&style=for-the-badge&url=http://laracodes.com)](https://laracodes.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/samqe?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsamqe&screen_name=Samqe)
 
-<br />
-
 ### Visitors
 ![Visitor Count](https://profile-counter.glitch.me/samushi/count.svg)
 
