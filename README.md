@@ -58,7 +58,7 @@
 
 
 ### Visitors
-![](https://komarev.com/ghpvc/?username=samushi&color=1da1f2 =250x250)
+![Github Views](https://komarev.com/ghpvc/?username=samushi&color=1da1f2&style=flat | width=100)
 
 
 [website]: https://laracodes.com
