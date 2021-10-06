@@ -6,6 +6,11 @@
 [![Website](https://img.shields.io/website?label=laracodes.com&style=for-the-badge&url=http://laracodes.com)](https://laracodes.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/samqe?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsamqe&screen_name=Samqe)
 
+<br />
+
+### Visitors
+![Visitor Count](https://profile-counter.glitch.me/samushi/count.svg)
+
 
 ## I'm a Husband, Father and Principial Developer
 
@@ -55,11 +60,6 @@
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][skills]
 [<img align="left" alt="PostgreSql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][skills]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][skills]
-
-
-### Visitors
-![Visitor Count](https://profile-counter.glitch.me/samushi/count.svg)
-
 
 
 [website]: https://laracodes.com
