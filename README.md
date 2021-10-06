@@ -58,7 +58,7 @@
 
 
 ### Visitors
-![Visitor Count](https://profile-counter.glitch.me/samushi/count.svg | width=100)
+![Visitor Count](https://profile-counter.glitch.me/samushi/count.svg)
 
 
 
