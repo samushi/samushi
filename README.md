@@ -1,7 +1,21 @@
 ### Hi there, I'm Sami Maxhuni - aka [samushi][website] 👋
 
 <br>
-<p>I am a PHP developer since 2005 with commercial experience, and specializing in PHP web and app development, focused on LAMP, MERN, and MEVN stacks development.</p>
+<p>I am a PHP developer since 2005 with commercial experience, and specializing in PHP web and app development, focused on TALL, LAMP, MERN, and MEVN stacks development.</p>
+
+#### What mean TALL
+<p>Development with tailwind, Alpine or (Vue), Laravel and Livewire</p>
+
+#### What mean LAMP
+<p>Development with Linux, Apache, Mysql and PHP</p>
+
+#### What mean MERN
+<p>Development with Mongodb, Express, React and NodeJS</p>
+
+#### What mean MEVN
+<p>Development with Mongodb, Express, Vue and NodeJS</p>
+
+<br>
 
 [![Website](https://img.shields.io/website?label=laracodes.com&style=for-the-badge&url=http://laracodes.com)](https://laracodes.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/samqe?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsamqe&screen_name=Samqe)
