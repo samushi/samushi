@@ -3,16 +3,16 @@
 <br>
 <p>I am a PHP developer since 2005 with commercial experience, and specializing in PHP web and app development, focused on TALL, LAMP, MERN, and MEVN stacks development.</p>
 
-#### What mean TALL
+#### What does TALL mean?
 <p>Development with tailwind, Alpine or (Vue), Laravel and Livewire</p>
 
-#### What mean LAMP
+#### What does LAMP mean?
 <p>Development with Linux, Apache, Mysql and PHP</p>
 
-#### What mean MERN
+#### What does MERN mean?
 <p>Development with Mongodb, Express, React and NodeJS</p>
 
-#### What mean MEVN
+#### What does MEVN mean?
 <p>Development with Mongodb, Express, Vue and NodeJS</p>
 
 <br>
