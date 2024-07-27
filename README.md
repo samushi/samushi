@@ -1,4 +1,4 @@
-### Hi there, I'm Sami Maxhuni - aka [samushi][http://devpeak.tech] 👋
+### Hi there, I'm Sami Maxhuni - aka [samushi] 👋
 
 <br>
 <p>I am a PHP developer since 2005 with commercial experience, and specializing in PHP web and app development, focused on TALL, LAMP, MERN, and MEVN stacks development.</p>
