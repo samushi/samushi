@@ -35,6 +35,10 @@
 
 [<img align="left" alt="Sami Maxhuni | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
+[<img align="left" alt="Sami Maxhuni | NPM" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/npm.svg" />][npm-profile]
+
+[<img align="left" alt="Sami Maxhuni | Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />][website]
+
 
 <br />
 
@@ -73,9 +77,8 @@
 
 
 [website]: https://laracodes.com
-[twitter]: https://twitter.com/samqe
+[twitter]: https://x.com/sami_maxhuni
 [youtube]: https://youtube.com/samushi
 [linkedin]: https://linkedin.com/in/samimaxhuni
-[kutia]: http://kutia.net
-[skills]: https://linkedin.com/in/samimaxhuni
+[skills]: https://samimaxhuni.com
 [npm-profile]: https://www.npmjs.com/~samushi
