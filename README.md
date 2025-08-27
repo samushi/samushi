@@ -9,8 +9,6 @@ ChatWise provides AI-powered chat assistants that can be embedded into websites,
 This project reflects my growing interest in <b>AI Agents, RAG systems, and intelligent SaaS products</b>.
 </p>
 
----
-
 #### What does TALL mean?
 <p>Development with tailwind, Alpine or (Vue), Laravel and Livewire</p>
 
