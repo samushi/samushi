@@ -2,6 +2,14 @@
 
 <br>
 <p>I am a PHP developer since 2005 with commercial experience, and specializing in PHP web and app development, focused on TALL, LAMP, MERN, and MEVN stacks development.</p>
+<p>
+I am also an <b>AI & Data Science enthusiast</b>.  
+Recently, I’ve been focusing on building <b>ChatWise</b> – a SaaS platform similar to Intercom and Tidio.  
+ChatWise provides AI-powered chat assistants that can be embedded into websites, helping businesses engage with their customers in smarter, more natural ways.  
+This project reflects my growing interest in <b>AI Agents, RAG systems, and intelligent SaaS products</b>.
+</p>
+
+---
 
 #### What does TALL mean?
 <p>Development with tailwind, Alpine or (Vue), Laravel and Livewire</p>
